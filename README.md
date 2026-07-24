@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LamasDev32s&show_iconscal
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LamasDev32&show_iconscal
 
 </div>
 
