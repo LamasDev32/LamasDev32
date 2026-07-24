@@ -1,4 +1,4 @@
-<img align="center":"center"; width="300px" src="banner.gif" alt="Banner de um personagem programando">
+<img align="center" width="300px" src="banner.gif" alt="Banner de um personagem programando">
 
 <h1 align="center">👨‍💻 Luiz Felipe</h1>
 
