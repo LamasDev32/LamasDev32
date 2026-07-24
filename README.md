@@ -39,11 +39,13 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 Métricas do Perfil
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LamasDev32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Luiz Felipe" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamasDev32&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="170" />
+
+![Visitas no Perfil](https://komarev.com/ghpvc/?username=LamasDev32&color=0078D4&style=for-the-badge&label=VISITAS+NO+PERFIL)
+![Seguidores](https://img.shields.io/github/followers/LamasDev32?style=for-the-badge&logo=github&color=181717&labelColor=222222)
+
 </div>
 
 ---
