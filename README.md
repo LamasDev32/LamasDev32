@@ -1,4 +1,4 @@
-<img align="center" width="300px" src="banner.gif" alt="Banner de um personagem programando">
+<div align="center"><img width="300px" src="banner.gif" alt="Banner de um personagem programando"></div>
 
 <h1 align="center">👨‍💻 Luiz Felipe</h1>
 
@@ -27,7 +27,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LamasDev32&show_iconscal
+![GitHub Stats](https://github-readme-stats.vercel.app/apiev32&show_icons=true&theme=radical
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sDev32&layout=compact&theme=radical
 
 </div>
 
